@@ -1,1 +1,3 @@
-# IML-SL-Project-Link-Prediction-Problem
+# Introduction to Machine Learning: Supervised Learning Project: Link Prediction Problem
+
+To fulfill the final project requirement for the class of "Introduction to Machine Learning: Supervised Learning" offered at Coursera by University of Colorado Boulder, this repository has the developed codes in Python, the edges data from [Link Prediction UTS on kaggle - Predict the links occurring in next time step, kaggle](https://www.kaggle.com/c/link-prediction-uts/overview), and the resulting computed results for the ten (10) similarity metrics used as a set of features from developing a logistic regression classification to study the link prediction problem.
